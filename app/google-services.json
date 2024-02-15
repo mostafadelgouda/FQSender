@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "897291445888",
+    "project_id": "fqsender",
+    "storage_bucket": "fqsender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897291445888:android:4c3d06ca42f1aeff6d2865",
+        "android_client_info": {
+          "package_name": "com.example.fqsender"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfzTxuTVxx5pNqXFt-kZCCxMh3CmU1ZRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
